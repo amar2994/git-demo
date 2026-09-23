@@ -11,6 +11,8 @@ public class App {
 		
 		int a=100, b=20, c=25;
 		System.out.println(a+" "+b+" "+c);
+        System.out.println(a+b+c);
+        
 	
 
     }
